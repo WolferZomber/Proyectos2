@@ -2,23 +2,22 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Página básica</title>
+    <title>Texto centrado</title>
     <style>
         body {
+            background-color: black;
+            color: white;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
             margin: 0;
-            font-family: Arial, sans-serif;
-            background-color: #000000;
-        }
-        h1 {
-            color: #ffffff;
+            font-size: 24px;
+            font-family: sans-serif;
         }
     </style>
 </head>
 <body>
-    <h1>Hola, soy una página web funcionando desde mi computadora. </h1>
+    Hola, soy una página web funcionando desde mi computadora.
 </body>
 </html>
